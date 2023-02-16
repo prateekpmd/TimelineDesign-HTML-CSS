@@ -1,0 +1,1 @@
+Its a timeline design for website using HTML and some animation using CSS. When you scroll the website you can see the vertical line moves downwards. Then it display the each content one by one with animation. It is responsive on mobile devices as well.
